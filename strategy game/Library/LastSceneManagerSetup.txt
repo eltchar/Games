@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/_scenes/online_board.unity
+  isLoaded: 1
+  isActive: 1
